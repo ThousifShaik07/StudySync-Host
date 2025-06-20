@@ -684,7 +684,7 @@ ul{
 
 
 /* Small Mobile View (up to 480px) */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 480px) {
     .section-title {
         font-size: 1.8rem;
     }
